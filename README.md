@@ -6,3 +6,7 @@
 
 For more details, please click to view the Presentation Slides for a more comprehensive explanation on the Gameplay, Components and Communication:
 https://github.com/leeyunfai/Shooting_Star/blob/master/Shooting_Star.pdf
+
+This project was completed successfully as part of the requirement for Nanyang Technological University's MA2011 – Mechatronics System Interfacing course. It came in 3rd in place within the Mechatronics Year 2 Cohort in 2019 during the annual MA2011 competition.
+
+**Disclaimer : The source code that was used to implement the coursework project is no longer maintained. There may be errors or bugs that did not exist at the time of creation.**
