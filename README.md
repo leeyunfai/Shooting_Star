@@ -1,4 +1,4 @@
-# Shooting_Star
+# Shooting Star
 ## Arduino-Based Arcade Game Machine Prototype 
 
 - Created a 2-player real-life laser shooting game using Arduino Microcontrollers with C++ in Arduino IDE
